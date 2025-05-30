@@ -1,7 +1,9 @@
 # AlarmaEnRutaApp
 
-![Banner de la aplicación](https://via.placeholder.com/800x400.png?text=AlarmaEnRutaApp+-+Tu+Compa%C3%B1ero+de+Viaje)
-*(Reemplaza este enlace con una captura de pantalla real de tu aplicación cuando la tengas más avanzada)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafaelRomeroTechDev/AlarmaEnRutaApp/main/assets/screenshot_alarma_en_ruta_app.jpg" alt="Captura de pantalla de AlarmaEnRutaApp" width="150"/>
+</p>
+
 
 ## Descripción General
 
